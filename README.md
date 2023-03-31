@@ -8,11 +8,11 @@
   <a href="https://github.com/munron/munron/">
     <img src="https://komarev.com/ghpvc/?username=munron" alt="munron" />
   </a>
-  <a href="https://github.com/munro">
-    <img height="20" src="https://img.shields.io/github/followers/munro?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/munron">
+    <img height="20" src="https://img.shields.io/github/followers/munron?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/munron">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/munron/posts.svg" />
+  <a href="http://qiita.com/munro">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/munro/posts.svg" />
   </a>
 </p>
 <!---
